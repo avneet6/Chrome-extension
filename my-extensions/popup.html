@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Productivity Manager</title>
+  <style>
+    body {
+      width: 250px; /* Increased width for better readability */
+      padding: 15px; /* Increased padding */
+      font-family: sans-serif; /* Added a default font */
+    }
+
+    h1 {
+      font-size: 1.2em;
+      margin-bottom: 10px;
+      text-align: center; /* Centered the heading */
+    }
+
+    input[type="text"],
+    textarea {
+      width: calc(100% - 12px); /* Adjusted width to account for padding/borders */
+      padding: 6px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box; /* Ensures padding and border are included in width */
+    }
+
+    textarea {
+      resize: vertical; /* Allows vertical resizing */
+      min-height: 80px; /* Set minimum height for the textarea */
+    }
+
+    button {
+      background-color: #4CAF50; /* Green background */
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100%; /* Full width button */
+      box-sizing: border-box; /* Ensures padding and border are included in width */
+    }
+
+    button:hover {
+      background-color: #45a049; /* Darker green on hover */
+    }
+  </style>
+</head>
+<body>
+  <h1>Add Task</h1>
+  <input type="text" id="taskTitle" placeholder="Title"><br><br>
+  <textarea id="taskDescription" placeholder="Description"></textarea><br><br>
+  <button id="addTaskButton">Add Task</button>
+  <script src="popup.js"></script>
+</body>
+</html>
