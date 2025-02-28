@@ -96,4 +96,16 @@ Phase 4: Deployment and Maintenance:
 
 # OUTPUT #
 
+![Image](https://github.com/user-attachments/assets/62c72ff8-6edf-4d10-83f0-f09ef3498206)
+![Image](https://github.com/user-attachments/assets/ee31986c-e7ce-4ba9-bcfb-7a326dd53368)
+![Image](https://github.com/user-attachments/assets/39ae2040-222d-4807-aa91-a9d996f22c74)
+![Image](https://github.com/user-attachments/assets/42149da3-e093-41e4-b8ac-8e182af35a6c)
+![Image](https://github.com/user-attachments/assets/0d65b472-2b83-40ee-a249-ddbd27314fa7)
+![Image](https://github.com/user-attachments/assets/29cb6f31-04d7-4085-a210-0b124bc8b988)
+![Image](https://github.com/user-attachments/assets/c81e2ac1-c7c6-4ce6-83fa-e89b706351e0)
+![Image](https://github.com/user-attachments/assets/3441aa23-25f8-4696-8885-430db6931cf8)
+![Image](https://github.com/user-attachments/assets/427006f4-b6d7-41b3-aaaf-a7534e8fc8d7)
+![Image](https://github.com/user-attachments/assets/47612bc1-038a-4f0e-b898-9e3086ff3475)
+![Image](https://github.com/user-attachments/assets/7d2555ec-0cbb-45cb-913d-aa9dbfbb23cd)
+![Image](https://github.com/user-attachments/assets/bfd7fbb7-c6b7-45fb-993a-ed660694c8ca)
 
